@@ -5,7 +5,7 @@
     $Cont = 0;
     while ($numero >= $Divisor) {
         $Cont++;
-        $numero -= 5;
+        $numero -= 7;
     }
     echo $Cont;
 ?>
